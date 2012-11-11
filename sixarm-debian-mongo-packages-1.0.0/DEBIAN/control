@@ -1,0 +1,12 @@
+Package: sixarm-debian-mongo-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: mongodb, mongodb-dev, mongodb-client, mongodb-server
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Mongo packages we like to use
+ Mongo packages we like to use together.
+
+
+
